@@ -8,10 +8,10 @@ I'm Victoria, a software developer driven by passion and innovation in ☁️ cl
 
 ## Project Experience 💼
 
-### [🚀 High-Performance Cloud-Native Web Application](https://github.com/dxu104/webapp-submit)
+### [🚀 High-Performance Cloud-Native Web Application](https://github.com/vicnuo/webapp-submit)
 Transformed backend deployment 🔄 with secure data practices 🔒, developed robust RESTful APIs ⚙️, and set up advanced AWS networking 🌐.
 
-### [📰 News Aggregator](https://github.com/dxu104/News_Aggregator)
+### [📰 News Aggregator](https://github.com/vicnuo/News_Aggregator)
 Engineered a Web Crawler 🕷 using Spring Boot, capturing articles from top news outlets 📰, enhanced with a responsive React UI 💻 and boosted by Mybatis and Redis 🚀.
 
 ### [🛍️ Amazon-Twitter Fusion App](https://youtu.be/OEGvcgRMMZo)
@@ -32,12 +32,12 @@ Feel free to explore my repositories 📂, connect with me on [LinkedIn](https:/
 
 
 
-<!-- [![YourGithubUsername's github stats](https://github-readme-stats.vercel.app/api?username=dxu104)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![YourGithubUsername's github stats](https://github-readme-stats.vercel.app/api?username=vicnuo)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxu104)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicnuo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dxu104)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vicnuo)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Programming Languages
@@ -78,4 +78,4 @@ Feel free to explore my repositories 📂, connect with me on [LinkedIn](https:/
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dxu104)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicnuo)](https://git.io/streak-stats)
