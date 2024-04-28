@@ -4,7 +4,7 @@ Welcome to my GitHub page! 🎉
 
 ## About Me 🙋‍♂️
 
-I'm Ethan, a software developer driven by passion and innovation in ☁️ cloud computing, 🔙 backend development, and 🛠 DevOps, currently honing my skills at Northeastern University. 
+I'm Victoria, a software developer driven by passion and innovation in ☁️ cloud computing, 🔙 backend development, and 🛠 DevOps, currently honing my skills at Northeastern University. 
 
 ## Project Experience 💼
 
